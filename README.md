@@ -1,2 +1,2 @@
 # Travel-website
-mentiBy is the good platform for begineers to learn new things
+mentiBy is the good platform for <br> begineers to learn new things
